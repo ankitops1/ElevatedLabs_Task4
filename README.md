@@ -24,7 +24,7 @@ Use aggregate functions and grouping to generate meaningful summaries of custome
 - Payments
 
 ## 📌 Use Case
-✅ Summarize customer and order activity
-✅ Analyze product stock and pricing trends
-✅ Track total sales and payment method usage
-✅ Gain insights from grouped data patterns
+- ✅ Summarize customer and order activity
+- ✅ Analyze product stock and pricing trends
+- ✅ Track total sales and payment method usage
+- ✅ Gain insights from grouped data patterns
